@@ -1,7 +1,7 @@
 const players = [
   {
     name: "Virat Kohli",
-    image: "images/kohli.jpg",
+    image: "images/kohli.png",
     stats: {
       matches: 300,
       strikeRate: 138.2,
@@ -11,7 +11,7 @@ const players = [
   },
   {
     name: "MS Dhoni",
-    image: "images/dhoni.jpg",
+    image: "images/dhoni.png",
     stats: {
       matches: 350,
       strikeRate: 87.6,
@@ -21,7 +21,7 @@ const players = [
   },
   {
     name: "Rohit Sharma",
-    image: "images/rohit.jpg",
+    image: "images/rohit.png",
     stats: {
       matches: 280,
       strikeRate: 130.1,
